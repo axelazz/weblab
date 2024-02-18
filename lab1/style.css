@@ -7,14 +7,9 @@ body{
     margin-left: 250px;
 }
 
-
-.navigation{
-
-    font-size: 12px;
-}
-
 .header-line{
     display: flex;
+    
 }
 
 .esc{
@@ -22,59 +17,30 @@ body{
     font-size: 26px;
     margin-top: 3px;
     margin-bottom: 11px;
-    font-weight: 400;
+    color: #2E2E2E;
+    
+    
 
 }
-
 .navigation{
     margin-left: 563px;
     margin-top: 17px;
-    display: flex;
-
-
 }
 
-.home{
-    font-size: 12px;
+.buttons{
+    text-decoration: none;
     font-family: 'Oxygen';
-    letter-spacing: 0.6px;
-    margin-right: 20px; 
-    font-weight: 400; 
-
-}
-
-.categories{
+    margin-right: 20px;
+    margin-top: 10px;
+    color: #2E2E2E;
     font-size: 12px;
-    margin: 10px, 20px;
-    font-family: 'Oxygen';
-    margin-right: 20px; 
     letter-spacing: 0.6px;
-    font-weight: 400;
-    
+
 
 }
 
-.about{
-    font-size: 12px;
-    margin: 10px, 20px;
-    font-family: 'Oxygen';
-    margin-right: 20px; 
-    letter-spacing: 0.6px;
-    font-weight: 400;
-    
 
-}
 
-.cont{
-    font-size: 12px;
-    margin: 10px, 20px;
-    font-family: 'Oxygen';
-    margin-right: 20px; 
-    letter-spacing: 0.6px;
-    font-weight: 400;
-    
-
-}
 
 
 .container2{
@@ -86,7 +52,7 @@ body{
 }
 .road{
     margin-top: 7px;
-    margin-left: 250px;
+    margin-left: 300px;
     font-size: 50px;
     font-family: 'Lora';
     letter-spacing: 2px;
@@ -95,7 +61,7 @@ body{
 
 .pod{
     margin-top: 7px;
-    margin-left: 268px;
+    margin-left: 318px;
     font-size: 12px;
     font-family: 'Oxygen';
     letter-spacing: 2px;
@@ -103,7 +69,70 @@ body{
     
 }
 
-.fon{
-    margin-top: 360px;
+img{
+    margin-top: 38px;
+    height: 534px;
+    width: 1500px;
     
+}
+
+.text{
+    margin-top: 140px;
+    margin-left: 250px;
+    margin-right: 240px;
+    font-size: 24px;
+    font-family: 'Oxygen';
+    line-height: 35px;
+    margin-bottom: 50px;
+}
+
+
+.footer{
+    background-image: url(f.jpg);
+    margin-top: 135px;
+    height: 89px;
+    width: 1440px;
+     
+
+}
+.footer-line{
+    display: flex;
+    align-items: center;
+}
+
+
+.container3{
+    margin-top: 48px;
+    margin-left: 240px;
+    
+}
+
+.esc2{
+    font-family: 'Lora';
+    font-size: 26px;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    color: white;
+    margin-right: 678px;
+    
+
+}
+
+.navigation2{
+    margin-top: 25px;
+
+
+}
+
+.buttons2{
+    text-decoration: none;
+    font-family: 'Oxygen';
+    letter-spacing: 1px;
+    margin-right: 20px;
+    margin-top: 10px;
+    color: rgba(256, 256, 256, 0.6);
+    font-size: 11px;
+
+
 }
